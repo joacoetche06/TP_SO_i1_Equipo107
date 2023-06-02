@@ -6,3 +6,4 @@ a. Si
 b. Si
 c. Si
 d. Nos comunicamos mediante Discord y WhatsApp
+e. La mejor forma para comunicarnos dentro de github es a traves del manejador de proyectos, ya que nos sirve para organizarnos de la mejor forma.
